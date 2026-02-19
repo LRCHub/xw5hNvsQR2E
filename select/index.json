@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "あなたは煙草　私はシャボン",
+  "base_artist": "Lovely Summer Chan",
+  "createdAt": "2026-02-19T17:29:33.216098Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あなたは煙草 私はシャボン",
+      "artist": "Lovely Summer Chan",
+      "has_synced": true,
+      "path": "select/01_あなたは煙草_私はシャボン_Lovely_Summer_Chan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あなたは煙草 私はシャボン",
+      "artist": "ラブリーサマーちゃん",
+      "has_synced": true,
+      "path": "select/02_あなたは煙草_私はシャボン_ラブリーサマーちゃん.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あなたは煙草　私はシャボン - Anata ha tabaco watashi ha syabon",
+      "artist": "Lovely Summer Chan",
+      "has_synced": true,
+      "path": "select/03_あなたは煙草_私はシャボン_-_Anata_ha_tabaco_watashi_ha_syabon_Lovely_Summer_Chan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あなたは煙草 私はシャボン",
+      "artist": "Lovely Summer Chan (ラブリーサマーちゃん)",
+      "has_synced": true,
+      "path": "select/04_あなたは煙草_私はシャボン_Lovely_Summer_Chan_(ラブリーサマーちゃん).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あなたは煙草 私はシャボン",
+      "artist": "ラブリーサマーちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_あなたは煙草_私はシャボン_ラブリーサマーちゃん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "あなたは煙草 私はシャボン",
+      "artist": "ラブリーサマーちゃん",
+      "has_synced": false,
+      "path": "select/pl_02_あなたは煙草_私はシャボン_ラブリーサマーちゃん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "あなたは煙草 私はシャボン",
+      "artist": "ラブリーサマーちゃん",
+      "has_synced": false,
+      "path": "select/pl_03_あなたは煙草_私はシャボン_ラブリーサマーちゃん.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "あなたは煙草 私はシャボン",
+      "artist": "ラブリーサマーちゃん",
+      "has_synced": false,
+      "path": "select/pl_04_あなたは煙草_私はシャボン_ラブリーサマーちゃん.txt"
+    }
+  ]
+}
